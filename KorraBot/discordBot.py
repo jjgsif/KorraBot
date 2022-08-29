@@ -93,4 +93,4 @@ async def end(ctx):
 
 
 print("Bot has join chat")
-bot.run("OTQwODUxNzI3OTg3NTI3NzUx.YgNadA.QhC9C6NS0blHgQ_H2DYRdliSlo4")
+bot.run("")
